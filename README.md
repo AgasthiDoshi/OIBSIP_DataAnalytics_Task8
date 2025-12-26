@@ -1,5 +1,5 @@
 # Unveiling the Android App Market: Google Play Store Data Analysis
-
+![Unveiling App](https://github.com/AgasthiDoshi/OIBSIP_DataAnalytics_Task8/blob/main/20251226_1411_Data%20Analytics%20Presentation%20Cover_simple_compose_01kdcx261he2zv90vfz8x0rvmk.png)
 ## Project Objective
 The objective of this project is to analyze Google Play Store
 application data to understand app market dynamics. The analysis
